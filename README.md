@@ -1,2 +1,2 @@
 # docker-aws-node
-AmazonLinux with NodeJS 10
+AmazonLinux with NodeJS 12
